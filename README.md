@@ -1,6 +1,6 @@
-Your Employee Management System - Project Overview
+ Employee Management System - Project Overview
 Project Summary
-You've built a desktop-based Employee Management System using Python's Tkinter GUI framework with SQLite database backend. It's a CRUD (Create, Read, Update, Delete) application for managing employee records with a professional, modern interface.
+I have built a desktop-based Employee Management System using Python's Tkinter GUI framework with a SQLite database backend. It's a CRUD (Create, Read, Update, Delete) application for managing employee records with a professional, modern interface.
 Technical Stack
 
 Language: Python 3
